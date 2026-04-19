@@ -8,33 +8,33 @@ Recipes & ingredients; current order of operations (work in progress); where her
 
 | Potion | Effects | OoOps |
 | :------ | ---- | ------ |
-| [Aesop](#aesop) | [X](#aesop-effects) | [X](#aesop-ooops) |
-| [Aqua Vitalis](#aqua-vitalis) | [X](#aqua-vitalis-effects) | [X](#aqua-vitalis-ooops) |
-| [Artemisia](#artemsia) | [X](#artemsia-effects) | [X](#artemsia-ooops) |
-| [Bane](#bane) | [X](#bane-effects) | [X](#bane-ooops) |
-| [Bowman's Brew](#bowmans-brew) | [X](#bowmans-brew-effects) | [X](#bowmans-brew-ooops) |
-| [Buck's Blood](#bucks-blood) | [X](#bucks-blood-effects) | [X](#bucks-blood-ooops) |
-| [Chamomile Brew](#chamomile-brew) | [X](#chamomile-effects) | [X](#chamomile-ooops) |
-| [Cockerel](#cockerel) | [X](#cockerel-effects) | [X](#cockerel-ooops) |
-| [Digestive Potion](#digestive-potion) | [X](#digestive-effects) | [X](#digestive-ooops) |
-| [Dollmaker](#dollmaker) | [X](#dollmaker-effects) | [X](#dollmaker-ooops) |
-| [Embrocation](#embrocation) | [X](#embrocation-effects) | [X](#embrocation-ooops) |
-| [Fever Tonic](#fever-tonic) | [X](#fever-tonic-effects) | [X](#fever-tonic-ooops) |
-| [Fox](#fox) | [X](#fox-effects) | [X](#fox-ooops) |
-| [Hair O' The Dog](#hair-o-the-dog) | [X](#hair-o-the-dog-effects) | [X](#hair-o-the-dog-ooops) |
-| [Lethean Water](#lethean-water) | [X](#lethean-effects) | [X](#lethean-ooops) |
-| [Lion](#lion) | [X](#lion-effects) | [X](#lion-ooops) |
-| [Lullaby](#lullaby) | [X](#lullaby-effects) | [X](#lullaby-ooops) |
-| [Marigold Decoction](#marigold-decoction) | [X](#marigold-effects) | [X](#marigold-ooops) |
-| [Mintha](#mintha) | [X](#mintha-effects) | [X](#mintha-ooops) |
-| [Moonshine](#moonshine) | [X](#moonshine-effects) | [X](#moonshine-ooops) |
-| [Nighthawk] | [X](#nighthawk-effects) | [X](#nighthawk-ooops) |
-| [Painkiller Brew](#painkiller-brew) | [X](#painkiller-effects) | [X](#painkiller-ooops) |
-| [Quickfinger](#quickfinger) | [X](#quickfinger-effects) | [X](#quickfinger-ooops) |
-| [Saviour Schnapps](#saviour-schnapps) | [X](#saviour-schnapps-effects) | [X](#saviour-schnapps-ooops) |
+| [Aesop - Animal Handling](#aesop) | [X](#aesop-effects) | [X](#aesop-ooops) |
+| [Aqua Vitalis - Constitution](#aqua-vitalis) | [X](#aqua-vitalis-effects) | [X](#aqua-vitalis-ooops) |
+| [Artemisia - Strength](#artemsia) | [X](#artemsia-effects) | [X](#artemsia-ooops) |
+| [Bane - Poison (food)](#bane) | [X](#bane-effects) | [X](#bane-ooops) |
+| [Bowman's Brew - Marksmanship](#bowmans-brew) | [X](#bowmans-brew-effects) | [X](#bowmans-brew-ooops) |
+| [Buck's Blood - Stamina](#bucks-blood) | [X](#bucks-blood-effects) | [X](#bucks-blood-ooops) |
+| [Chamomile Brew - Healing (long)](#chamomile-brew) | [X](#chamomile-effects) | [X](#chamomile-ooops) |
+| [Cockerel - Energy](#cockerel) | [X](#cockerel-effects) | [X](#cockerel-ooops) |
+| [Digestive Potion - Anti-poison](#digestive-potion) | [X](#digestive-effects) | [X](#digestive-ooops) |
+| [Dollmaker - Poison (weapon)](#dollmaker) | [X](#dollmaker-effects) | [X](#dollmaker-ooops) |
+| [Embrocation - Agility / Sprint](#embrocation) | [X](#embrocation-effects) | [X](#embrocation-ooops) |
+| [Fever Tonic - Quest](#fever-tonic) | [X](#fever-tonic-effects) | [X](#fever-tonic-ooops) |
+| [Fox - Charisma (not perfume)](#fox) | [X](#fox-effects) | [X](#fox-ooops) |
+| [Hair O' The Dog - Drunk / Hangover](#hair-o-the-dog) | [X](#hair-o-the-dog-effects) | [X](#hair-o-the-dog-ooops) |
+| [Lethean Water - Reset perks](#lethean-water) | [X](#lethean-effects) | [X](#lethean-ooops) |
+| [Lion - Charisma (short)](#lion) | [X](#lion-effects) | [X](#lion-ooops) |
+| [Lullaby - Poison (long)](#lullaby) | [X](#lullaby-effects) | [X](#lullaby-ooops) |
+| [Marigold Decoction - Healing potion](#marigold-decoction) | [X](#marigold-effects) | [X](#marigold-ooops) |
+| [Mintha - Charisma (long)](#mintha) | [X](#mintha-effects) | [X](#mintha-ooops) |
+| [Moonshine - Alcohol](#moonshine) | [X](#moonshine-effects) | [X](#moonshine-ooops) |
+| [Nighthawk - Darkvision] | [X](#nighthawk-effects) | [X](#nighthawk-ooops) |
+| [Painkiller Brew - Rage](#painkiller-brew) | [X](#painkiller-effects) | [X](#painkiller-ooops) |
+| [Quickfinger - Thievery / Crafting](#quickfinger) | [X](#quickfinger-effects) | [X](#quickfinger-ooops) |
+| [Saviour Schnapp - Save (buff)](#saviour-schnapps) | [X](#saviour-schnapps-effects) | [X](#saviour-schnapps-ooops) |
 | [Soap](#soap) | [X](#soap-effects) | [X](#soap-ooops) |
-| [Lead Shot Gunpowder](#lead-shot-gunpowder) | [X](#lead-shot-effects) | [X](#lead-shot-ooops) |
-| [Scattershot Powder](#scattershot-powder) | [X](#scattershot-effects) | [X](#scattershot-ooops) |
+| [Lead Shot Gunpowder - Ammo](#lead-shot-gunpowder) | [X](#lead-shot-effects) | [X](#lead-shot-ooops) |
+| [Scattershot Powder - Ammo](#scattershot-powder) | [X](#scattershot-effects) | [X](#scattershot-ooops) |
 
 ## Recipes
 
@@ -317,7 +317,7 @@ Prep: Oil, 1x St. John's wort, 1x Dandelion, 1x Comfrey
 
 ### Chamomile Brew
 
-For: Improved Healing
+For: Healing (long)
 Base: Wine
 Ingredients: Chamomile x2, Sage x1
 
@@ -360,7 +360,7 @@ Prep: Wine, Chamomile x2, Sage x1
 
 ### Cockerel
 
-For: Energy boost
+For: Energy
 Base: Spiritus
 Ingredients: 1x Valerian, 2x Mint
 
@@ -964,7 +964,7 @@ Finally, distil.
 
 ### Quickfinger
 
-For: Thievery (crafting)
+For: Thievery / Crafting
 Base: Water
 Ingredients: 2x Eyebright, 2x Valerian, 1x Cobweb
 
