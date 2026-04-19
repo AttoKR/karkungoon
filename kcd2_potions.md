@@ -90,6 +90,8 @@ Prep: Spiritus, 1x Belladonna, 1x Boar's Tusk, 2x Comfrey
 11) 1x Vial
 12) Distill
 
+___
+
 ### Aqua Vitalis
 
 [top](#table-of-contents)
@@ -136,6 +138,8 @@ Prep: Water, 2x Dandelion, 1x Marigold
 8) Vial -> hand (leisurely)
 9) Distill
 
+___
+
 ### Artemsia
 
 [top](#table-of-contents)
@@ -180,6 +184,8 @@ Prep: Spirits, 2x Wormwood, 1x Sage
 7) Timer (wait 1 Turn)
 8) Vial -> hand (leisurely)
 9) Distill
+
+___
 
 ### Bane
 
@@ -226,6 +232,8 @@ Prep: Wine, 1x Wormwood, 2x Belladonna, 1x Amanita Muscaria
 8) Lift cauldron
 9) Amanita -> cauldron
 10) Vial, distill
+
+___
 
 ### Bowman's Brew
 
@@ -274,6 +282,8 @@ Prep: Spirits, 2x Eyebright, 1x St. John's Wort
 9) Bellows (1)
 10) Vial -> hand (leisurely)
 11) Distill
+
+___
 
 ### Buck's Blood
 
@@ -324,6 +334,8 @@ Prep: Oil, 1x St. John's wort, 1x Dandelion, 1x Comfrey
 12) Phial -> hand
 13) 1x Turn -> pour
 
+___
+
 ### Chamomile Brew
 
 [top](#table-of-contents)
@@ -369,6 +381,8 @@ Prep: Wine, Chamomile x2, Sage x1
 8) Sage -> cauldron
 9) Vial, pour
 
+___
+
 ### Cockerel
 
 [top](#table-of-contents)
@@ -413,6 +427,8 @@ Prep: Spirits, 1x Valerian, 2x Mint
 7) 1x Valerian -> cauldron
 8) Timer (2 turns)
 9) Vial, distill
+
+___
 
 ### Digestive Potion
 
@@ -462,6 +478,8 @@ Boil for 1 turn.
 Grind the Charcoal and add it to the cauldron.
 Finally, pour.
 
+___
+
 ### Dollmaker
 
 [top](#table-of-contents)
@@ -510,6 +528,8 @@ Prep: Spirits, 1x Valerian, 2x Herb Paris
 8) Vial -> hand (leisurely)
 9) Distill
 
+___
+
 ### Embrocation
 
 [top](#table-of-contents)
@@ -557,6 +577,8 @@ Prep: Oil, 1x Eyebright, 1x Poppy, 1x Valerian, 1x Boar's Tusk
 9) Vial -> hand (leisurely)
 10) Pour
 
+___
+
 ### Fever Tonic
 
 [top](#table-of-contents)
@@ -581,6 +603,8 @@ Add the Feverfew and boil for 2 turns.
 Grind the Elderberry Leaves and add them to the cauldron.
 Add the Ginger.
 Finally, distil.
+
+___
 
 ### Fox
 
@@ -630,6 +654,8 @@ Prep: Oil, 1x Nettle, 1x St. John's Wort, 1x Belladonna, 1x Charcoal
 11) Vial -> hand (leisurely)
 12) Pour
 
+___
+
 ### Hair O' The Dog
 
 [top](#table-of-contents)
@@ -675,6 +701,8 @@ Boil for 3 turns.
 Grind the Mint and add it to the cauldron.  
 Finally, pour.  
 
+___
+
 ### Lethean Water
 
 [top](#table-of-contents)
@@ -703,6 +731,8 @@ Grind the Wormwood and add it to the cauldron.
 Add the Belladonna and brew for 3 turns.  
 Add the Henbane.  
 Finally, distil.  
+
+___
 
 ### Lion
 
@@ -743,6 +773,8 @@ Spirits to the cauldron.
 Add the Sage to the cauldron and boil for 2 turns.  
 Grind the Mint and add it to the cauldron.  
 Finally, pour.  
+
+___
 
 ### Lullaby
 
@@ -791,6 +823,8 @@ Add the Thistle and boil for 1 turn.
 Grind the Herb Paris and add it to the cauldron.  
 Finally, pour.  
 
+___
+
 ### Marigold Decoction
 
 [top](#table-of-contents)
@@ -837,6 +871,8 @@ Prep: Water, 1x Nettle, 2x Marigold
 7) Lift cauldron
 8) Vial, pour
 
+___
+
 ### Mintha
 
 [top](#table-of-contents)
@@ -878,6 +914,8 @@ Boil for 2 turns.
 Add the Marigold to the cauldron and boil for 1 turn using the Bellows.  
 Finally, distil.
 
+___
+
 ### Moonshine
 
 [top](#table-of-contents)
@@ -906,6 +944,8 @@ Add the Wormwood to the cauldron and boil for 2 turns.
 Grind the Mint and add it to the cauldron.  
 Boil for 1 turn.  
 Finally, distil.
+
+___
 
 ### Nighthawk
 
@@ -944,6 +984,8 @@ Grind the Eyebright and add it to the cauldron.
 Add the Belladonna and boil for 3 turns.  
 Grind the Chamomile and add it to the cauldron.  
 Finally, pour.
+
+___
 
 ### Painkiller Brew
 
@@ -988,6 +1030,8 @@ Add the Marigold and boil for 1 turn using the Bellows.
 Add the Comfrey and boil for 2 turns.  
 Finally, distil.
 
+___
+
 ### Quickfinger
 
 [top](#table-of-contents)
@@ -1030,6 +1074,8 @@ Add the Cobweb and Eyebright to the cauldron and boil for 3 turns.
 Grind the Valerian and add it to the cauldron.  
 Boil for 1 turn.  
 Finally, pour.
+
+___
 
 ### Saviour Schnapps
 
@@ -1078,6 +1124,8 @@ Prep: Wine, 1x Nettle, 2x Belladonna
 6) Vial -> hand (leisurely)
 7) Pour
 
+___
+
 ### Soap
 
 [top](#table-of-contents)
@@ -1108,6 +1156,8 @@ Add the Dandelion to the cauldron and boil for 1 turn.
 Grind the Charcoal and add it to the cauldron.  
 Finally, pour.
 
+___
+
 ### Lead Shot Gunpowder
 
 [top](#table-of-contents)
@@ -1137,6 +1187,8 @@ Boil for 2 turns.
 Grind the Charcoal and add to the cauldron.  
 Boil for 2 turns.  
 Pour into a mortar and grind.
+
+___
 
 ### Scattershot Powder
 
