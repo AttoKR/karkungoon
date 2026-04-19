@@ -28,28 +28,31 @@ Recipes & ingredients; current order of operations (work in progress); where her
 | [Marigold Decoction - Healing potion](#marigold-decoction) | [X](#marigold-effects) | [X](#marigold-ooops) |
 | [Mintha - Charisma (long)](#mintha) | [X](#mintha-effects) | [X](#mintha-ooops) |
 | [Moonshine - Alcohol](#moonshine) | [X](#moonshine-effects) | [X](#moonshine-ooops) |
-| [Nighthawk - Darkvision] | [X](#nighthawk-effects) | [X](#nighthawk-ooops) |
+| [Nighthawk - Darkvision](#nighthawk) | [X](#nighthawk-effects) | [X](#nighthawk-ooops) |
 | [Painkiller Brew - Rage](#painkiller-brew) | [X](#painkiller-effects) | [X](#painkiller-ooops) |
 | [Quickfinger - Thievery / Crafting](#quickfinger) | [X](#quickfinger-effects) | [X](#quickfinger-ooops) |
 | [Saviour Schnapp - Save (buff)](#saviour-schnapps) | [X](#saviour-schnapps-effects) | [X](#saviour-schnapps-ooops) |
 | [Soap](#soap) | [X](#soap-effects) | [X](#soap-ooops) |
 | [Lead Shot Gunpowder - Ammo](#lead-shot-gunpowder) | [X](#lead-shot-effects) | [X](#lead-shot-ooops) |
 | [Scattershot Powder - Ammo](#scattershot-powder) | [X](#scattershot-effects) | [X](#scattershot-ooops) |
+| [Price - Alphabetic](#alphabetised) | | |
+| [Price - Descending](#highest---lowest) | | |
 
 ## Recipes
 
 ### Aesop
 
-For: Animal Handling
-Base: Spiritus
+[top](#table-of-contents)
+
+For: Animal Handling  
+Base: Spiritus  
 Ingredients: 1x Belladonna, 1x Boar's Tusk, 2x Comfrey
 
-stat_chg: +5 Nourishment, +3 Energy, 0 Health
-stat_pct: 90% Nutrition, 6% Alcohol
+stat_chg: +5 Nourishment, +3 Energy, 0 Health  
+stat_pct: 90% Nutrition, 6% Alcohol  
 stat_wgt: 0.2
-stat_cost: 36.2
 
-Where recipe: Pschitoky Apothecary
+Where recipe: Pschitoky Apothecary  
 Where herbs:
 
 #### Aesop effects
@@ -89,16 +92,17 @@ Prep: Spiritus, 1x Belladonna, 1x Boar's Tusk, 2x Comfrey
 
 ### Aqua Vitalis
 
-For: Constitution
-Base: Water
+[top](#table-of-contents)
+
+For: Constitution  
+Base: Water  
 Ingredients: 2x Dandelion, 1x Marigold
 
-stat_chg: +5 Nourishment, +4 Energy, 0 Health
-stat_pct: 50% Nutrition, 0% Alcohol
-stat_wgt: 0.2
-stat_cost: 45
+stat_chg: +5 Nourishment, +4 Energy, 0 Health  
+stat_pct: 50% Nutrition, 0% Alcohol  
+stat_wgt: 0.2  
 
-Where recipe: Nomads' Camp (Aranka), Kuttenberg (Apothecary), Trosky Castle (Herbalist Barnaby)
+Where recipe: Nomads' Camp (Aranka), Kuttenberg (Apothecary), Trosky Castle (Herbalist Barnaby)  
 Where herbs:
 
 #### Aqua Vitalis effects
@@ -134,16 +138,17 @@ Prep: Water, 2x Dandelion, 1x Marigold
 
 ### Artemsia
 
-For: Strength
-Base: Spiritus
+[top](#table-of-contents)
+
+For: Strength  
+Base: Spiritus  
 Ingredients: 2x Wormwood, 1x Sage
 
-stat_chg: Nourishment, Energy, Health
-stat_pct: % Nutrition, % Alcohol
-stat_wgt:
-stat_cost:
+stat_chg: Nourishment, Energy, Health  
+stat_pct: % Nutrition, % Alcohol  
+stat_wgt:  
 
-Where recipe: Kuttenberg (Apothecary), Trosky Castle (Herbalist Barnaby), Pschitoky (Apothecary)
+Where recipe: Kuttenberg (Apothecary), Trosky Castle (Herbalist Barnaby), Pschitoky (Apothecary)  
 Where herbs:
 
 #### Artemsia effects
@@ -178,16 +183,17 @@ Prep: Spirits, 2x Wormwood, 1x Sage
 
 ### Bane
 
-For: Poison (food)
-Base: Wine
+[top](#table-of-contents)
+
+For: Poison (food)  
+Base: Wine  
 Ingredients: 1x Wormwood, 2x Belladonna, 1x Amanita Muscaria
 
-stat_chg: Nourishment, Energy, Health
-stat_pct: % Nutrition, % Alcohol
+stat_chg: Nourishment, Energy, Health  
+stat_pct: % Nutrition, % Alcohol  
 stat_wgt:
-stat_cost:
 
-Where recipe: Nomads' Camp (Aranka), Balthazar (Random Encounter)
+Where recipe: Nomads' Camp (Aranka), Balthazar (Random Encounter)  
 Where herbs:
 
 #### Bane effects
@@ -223,16 +229,17 @@ Prep: Wine, 1x Wormwood, 2x Belladonna, 1x Amanita Muscaria
 
 ### Bowman's Brew
 
-For: Marksmanship
-Base: Spiritus
+[top](#table-of-contents)
+
+For: Marksmanship  
+Base: Spiritus  
 Ingredients: 2x Eyebright, 1x St. John's Wort
 
-stat_chg: Nourishment, Energy, Health
-stat_pct: % Nutrition, % Alcohol
+stat_chg: Nourishment, Energy, Health  
+stat_pct: % Nutrition, % Alcohol  
 stat_wgt:
-stat_cost:
 
-Where recipe: Purchase from Aranka (Nomads' Camp) or Herbalist Barnaby (north of Trosky Castle).
+Where recipe: Purchase from Aranka (Nomads' Camp) or Herbalist Barnaby (north of Trosky Castle)  
 Where herbs:
 
 #### Bowman's Brew effects
@@ -270,15 +277,17 @@ Prep: Spirits, 2x Eyebright, 1x St. John's Wort
 
 ### Buck's Blood
 
-For: Stamina
-Base: Oil
+[top](#table-of-contents)
+
+For: Stamina  
+Base: Oil  
 Ingredients: 1x St. John's wort, 1x Dandelion, 1x Comfrey
 
-Stat_chg: +5 Nourishment, +6 Energy, +0 Health
-Stat_pct: Nutrition 50%, Alcohol 0%
+Stat_chg: +5 Nourishment, +6 Energy, +0 Health  
+Stat_pct: Nutrition 50%, Alcohol 0%  
 Stat_weight: 0.2
 
-Where recipe: Kuttenburg (Apothecary), Near Trosky Castle (Herbalist Barnaby)
+Where recipe: Kuttenburg (Apothecary), Near Trosky Castle (Herbalist Barnaby)  
 Where herbs:
 
 #### Buck's Blood effects
@@ -317,15 +326,17 @@ Prep: Oil, 1x St. John's wort, 1x Dandelion, 1x Comfrey
 
 ### Chamomile Brew
 
-For: Healing (long)
-Base: Wine
+[top](#table-of-contents)
+
+For: Healing (long)  
+Base: Wine  
 Ingredients: Chamomile x2, Sage x1
 
-Stat_chg: +5 Nourishment, +10 Energy, +0 Health
-Stat_pct: Nutrition 90%, Alcohol 0%
+Stat_chg: +5 Nourishment, +10 Energy, +0 Health  
+Stat_pct: Nutrition 90%, Alcohol 0%  
 Stat_weight: 0.5
 
-Where recipe: Nomads' Camp (Aranka), Troskowitz (Apothecary), Kuttenberg (Apothecary), Pschitoky (Apothecary)
+Where recipe: Nomads' Camp (Aranka), Troskowitz (Apothecary), Kuttenberg (Apothecary), Pschitoky (Apothecary)  
 Where herbs:
 
 #### Chamomile effects
@@ -360,16 +371,17 @@ Prep: Wine, Chamomile x2, Sage x1
 
 ### Cockerel
 
-For: Energy
-Base: Spiritus
+[top](#table-of-contents)
+
+For: Energy  
+Base: Spiritus  
 Ingredients: 1x Valerian, 2x Mint
 
-stat_chg: Nourishment, Energy, Health
-stat_pct: % Nutrition, % Alcohol
+stat_chg: Nourishment, Energy, Health  
+stat_pct: % Nutrition, % Alcohol  
 stat_wgt:
-stat_cost:
 
-Where recipe: Kuttenberg (Apothecary), Pschitoky (Apothecary)
+Where recipe: Kuttenberg (Apothecary), Pschitoky (Apothecary)  
 Where herbs:
 
 #### Cockerel effects
@@ -404,16 +416,17 @@ Prep: Spirits, 1x Valerian, 2x Mint
 
 ### Digestive Potion
 
-For: Anti-poison
-Base: Water
-Ingredients: 1x Nettle, 2x Thistle, 1x Charcoal
+[top](#table-of-contents)
 
-stat_chg: Nourishment, Energy, Health
-stat_pct: % Nutrition, % Alcohol
+For: Anti-poison  
+Base: Water  
+Ingredients: 1x Nettle, 2x Thistle, 1x Charcoal  
+
+stat_chg: Nourishment, Energy, Health  
+stat_pct: % Nutrition, % Alcohol  
 stat_wgt:
-stat_cost:
 
-Where recipe: Troskowitz (Apothecary), Trosky Castle (Herbalist Barnaby), Kuttenberg (Apothecary), Trosky Castle (Physician's Journal)
+Where recipe: Troskowitz (Apothecary), Trosky Castle (Herbalist Barnaby), Kuttenberg (Apothecary), Trosky Castle (Physician's Journal)  
 Where herbs:
 
 #### Digestive effects
@@ -451,16 +464,17 @@ Finally, pour.
 
 ### Dollmaker
 
-For: Poison (weapon)
-Base: Spiritus
+[top](#table-of-contents)
+
+For: Poison (weapon)  
+Base: Spiritus  
 Ingredients: 1x Valerian, 2x Herb Paris
 
-stat_chg: Nourishment, Energy, Health
-stat_pct: % Nutrition, % Alcohol
+stat_chg: Nourishment, Energy, Health  
+stat_pct: % Nutrition, % Alcohol  
 stat_wgt:
-stat_cost:
 
-Where recipe: Nomads' Camp (Aranka), Trosky Castle (Herbalist Barnaby) Balthazar (Random Encounter)
+Where recipe: Nomads' Camp (Aranka), Trosky Castle (Herbalist Barnaby) Balthazar (Random Encounter)  
 Where herbs:
 
 #### Dollmaker effects
@@ -498,16 +512,17 @@ Prep: Spirits, 1x Valerian, 2x Herb Paris
 
 ### Embrocation
 
-For: Agility / Sprint
-Base: Oil
+[top](#table-of-contents)
+
+For: Agility / Sprint  
+Base: Oil  
 Ingredients: 1x Eyebright, 1x Poppy, 1x Valerian, 1x Boar's Tusk
 
-stat_chg: Nourishment, Energy, Health
-stat_pct: % Nutrition, % Alcohol
+stat_chg: Nourishment, Energy, Health  
+stat_pct: % Nutrition, % Alcohol  
 stat_wgt:
-stat_cost:
 
-Where recipe: Nomads' Camp (Aranka), Kuttenberg (Apothecary)
+Where recipe: Nomads' Camp (Aranka), Kuttenberg (Apothecary)  
 Where herbs:
 
 #### Embrocation effects
@@ -544,11 +559,13 @@ Prep: Oil, 1x Eyebright, 1x Poppy, 1x Valerian, 1x Boar's Tusk
 
 ### Fever Tonic
 
-For: Quest
-Base: Wine
+[top](#table-of-contents)
+
+For: Quest  
+Base: Wine  
 Ingredients: 3x Feverfew, 2x Ginger, 1x Elderberry Leaves
 
-Where recipe: Trosky Castle (Physician's Journal)
+Where recipe: Trosky Castle (Physician's Journal)  
 Where herbs:
 
 #### Fever Tonic effects
@@ -567,16 +584,15 @@ Finally, distil.
 
 ### Fox
 
-For: Charisma (not perfume)
-Base: Oil
+For: Charisma (not perfume)  
+Base: Oil  
 Ingredients: 1x Nettle, 1x St. John's Wort, 1x Belladonna, 1x Charcoal
 
-stat_chg: Nourishment, Energy, Health
-stat_pct: % Nutrition, % Alcohol
+stat_chg: Nourishment, Energy, Health  
+stat_pct: % Nutrition, % Alcohol  
 stat_wgt:
-stat_cost:
 
-Where recipe: Kuttenberg (Apothecary), Pschitoky (Apothecary)
+Where recipe: Kuttenberg (Apothecary), Pschitoky (Apothecary)  
 Where herbs:
 
 #### Fox effects
@@ -616,16 +632,17 @@ Prep: Oil, 1x Nettle, 1x St. John's Wort, 1x Belladonna, 1x Charcoal
 
 ### Hair O' The Dog
 
-For: Drunk / Hangover
-Base: Water
+[top](#table-of-contents)
+
+For: Drunk / Hangover  
+Base: Water  
 Ingredients:  1x Sage, 1x St. John's Wort, 1x Mint
 
-stat_chg: Nourishment, Energy, Health
-stat_pct: % Nutrition, % Alcohol
+stat_chg: Nourishment, Energy, Health  
+stat_pct: % Nutrition, % Alcohol  
 stat_wgt:
-stat_cost:
 
-Where recipe: Troskowitz (Apothecary), Trosky Castle (Herbalist Barnaby), Kuttenberg (Apothecary)
+Where recipe: Troskowitz (Apothecary), Trosky Castle (Herbalist Barnaby), Kuttenberg (Apothecary)  
 Where herbs:
 
 #### Hair O' The Dog effects
@@ -652,24 +669,25 @@ Where herbs:
 
 Prep: Water, 1x Sage, 1x St. John's Wort, 1x Mint
 
-Add Water to the cauldron.
-Add the Sage and St. John's Wort to the cauldron.
-Boil for 3 turns.
-Grind the Mint and add it to the cauldron.
-Finally, pour.
+Add Water to the cauldron.  
+Add the Sage and St. John's Wort to the cauldron.  
+Boil for 3 turns.  
+Grind the Mint and add it to the cauldron.  
+Finally, pour.  
 
 ### Lethean Water
 
-For: Reset perks
-Base: Spiritus
+[top](#table-of-contents)
+
+For: Reset perks  
+Base: Spiritus  
 Ingredients: 2x Wormwood, 1x Belladonna, 1x Henbane
 
-stat_chg: Nourishment, Energy, Health
-stat_pct: % Nutrition, % Alcohol
+stat_chg: Nourishment, Energy, Health  
+stat_pct: % Nutrition, % Alcohol  
 stat_wgt:
-stat_cost:
 
-Where recipe: Kuttenberg (Apothecary), "The Thunderstone" (Quest)
+Where recipe: Kuttenberg (Apothecary), "The Thunderstone" (Quest)  
 Where herbs:
 
 #### Lethean effects
@@ -680,24 +698,25 @@ Where herbs:
 
 Prep: Spirits, 2x Wormwood, 1x Belladonna, 1x Henbane
 
-Add Spirits to the cauldron.
-Grind the Wormwood and add it to the cauldron.
-Add the Belladonna and brew for 3 turns.
-Add the Henbane.
-Finally, distil.
+Add Spirits to the cauldron.  
+Grind the Wormwood and add it to the cauldron.  
+Add the Belladonna and brew for 3 turns.  
+Add the Henbane.  
+Finally, distil.  
 
 ### Lion
 
-For: Charisma (short)
-Base: Spiritus
+[top](#table-of-contents)
+
+For: Charisma (short)  
+Base: Spiritus  
 Ingredients: 2x Sage, 2x Mint
 
-stat_chg: Nourishment, Energy, Health
-stat_pct: % Nutrition, % Alcohol
+stat_chg: Nourishment, Energy, Health  
+stat_pct: % Nutrition, % Alcohol  
 stat_wgt:
-stat_cost:
 
-Where recipe: Troskowitz (Apothecary), Kuttenberg (Apothecary)
+Where recipe: Troskowitz (Apothecary), Kuttenberg (Apothecary)  
 Where herbs:
 
 #### Lion effects
@@ -720,23 +739,24 @@ Where herbs:
 
 Prep: Spirits, 2x Sage, 2x Mint
 
-Spirits to the cauldron.
-Add the Sage to the cauldron and boil for 2 turns.
-Grind the Mint and add it to the cauldron.
-Finally, pour.
+Spirits to the cauldron.  
+Add the Sage to the cauldron and boil for 2 turns.  
+Grind the Mint and add it to the cauldron.  
+Finally, pour.  
 
 ### Lullaby
 
-For: Poison (long)
-Base: Oil
+[top](#table-of-contents)
+
+For: Poison (long)  
+Base: Oil  
 Ingredients: 1x Poppy, 1x Herb Paris, 1x Thistle
 
-stat_chg: Nourishment, Energy, Health
-stat_pct: % Nutrition, % Alcohol
+stat_chg: Nourishment, Energy, Health  
+stat_pct: % Nutrition, % Alcohol  
 stat_wgt:
-stat_cost:
 
-Where recipe: Trosky Castle (Herbalist Barnaby), "Mice" (Quest)
+Where recipe: Trosky Castle (Herbalist Barnaby), "Mice" (Quest)  
 Where herbs:
 
 #### Lullaby effects
@@ -765,24 +785,25 @@ Where herbs:
 
 Prep: Oil, 1x Poppy, 1x Herb Paris, 1x Thistle
 
-Oil to the cauldron.
-Add the Poppy and boil for 1 turn.
-Add the Thistle and boil for 1 turn.
-Grind the Herb Paris and add it to the cauldron.
-Finally, pour.
+Oil to the cauldron.  
+Add the Poppy and boil for 1 turn.  
+Add the Thistle and boil for 1 turn.  
+Grind the Herb Paris and add it to the cauldron.  
+Finally, pour.  
 
 ### Marigold Decoction
 
-For: Healing potion
-Base: Water
+[top](#table-of-contents)
+
+For: Healing potion  
+Base: Water  
 Ingredients: 1x Nettle, 2x Marigold
 
-stat_chg: Nourishment, Energy, Health
-stat_pct: % Nutrition, % Alcohol
+stat_chg: Nourishment, Energy, Health  
+stat_pct: % Nutrition, % Alcohol  
 stat_wgt:
-stat_cost:
 
-Where recipe: Troskowitz (Apothecary), Trosky Castle (Herbalist Barnaby), Kuttenberg (Apothecary), Pschitoky (Apothecary)
+Where recipe: Troskowitz (Apothecary), Trosky Castle (Herbalist Barnaby), Kuttenberg (Apothecary), Pschitoky (Apothecary)  
 Where herbs:
 
 #### Marigold effects
@@ -818,16 +839,17 @@ Prep: Water, 1x Nettle, 2x Marigold
 
 ### Mintha
 
-For: Charisma (long)
-Base: Wine
+[top](#table-of-contents)
+
+For: Charisma (long)  
+Base: Wine  
 Ingredients: 3x Dandelion, 1x Marigold, 1x Mint
 
-stat_chg: Nourishment, Energy, Health
-stat_pct: % Nutrition, % Alcohol
+stat_chg: Nourishment, Energy, Health  
+stat_pct: % Nutrition, % Alcohol  
 stat_wgt:
-stat_cost:
 
-Where recipe: Troskowitz (Apothecary), Kuttenberg (Apothecary)
+Where recipe: Troskowitz (Apothecary), Kuttenberg (Apothecary)  
 Where herbs:
 
 #### Mintha effects
@@ -850,24 +872,25 @@ Where herbs:
 
 Prep: Wine, 3x Dandelion, 1x Marigold, 1x Mint
 
-Wine to the cauldron.
-Grind the Dandelion and Mint and add them to the cauldron.
-Boil for 2 turns.
-Add the Marigold to the cauldron and boil for 1 turn using the Bellows.
+Wine to the cauldron.  
+Grind the Dandelion and Mint and add them to the cauldron.  
+Boil for 2 turns.  
+Add the Marigold to the cauldron and boil for 1 turn using the Bellows.  
 Finally, distil.
 
 ### Moonshine
 
-For: Alcohol
-Base: Spiritus
+[top](#table-of-contents)
+
+For: Alcohol  
+Base: Spiritus  
 Ingredients: 2x Mint, 2x Wormwood
 
-stat_chg: Nourishment, Energy, Health
-stat_pct: % Nutrition, % Alcohol
+stat_chg: Nourishment, Energy, Health  
+stat_pct: % Nutrition, % Alcohol  
 stat_wgt:
-stat_cost:
 
-Where recipe: Nomads' Camp (Aranka)
+Where recipe: Nomads' Camp (Aranka)  
 Where herbs:
 
 #### Moonshine effects
@@ -878,19 +901,21 @@ Where herbs:
 
 Prep: Spirits, 2x Mint, 2x Wormwood
 
-Spirits to the cauldron.
-Add the Wormwood to the cauldron and boil for 2 turns.
-Grind the Mint and add it to the cauldron.
-Boil for 1 turn.
+Spirits to the cauldron.  
+Add the Wormwood to the cauldron and boil for 2 turns.  
+Grind the Mint and add it to the cauldron.  
+Boil for 1 turn.  
 Finally, distil.
 
 ### Nighthawk
 
-For: Darkvision
-Base: Water
+[top](#table-of-contents)
+
+For: Darkvision  
+Base: Water  
 Ingredients: 2x Eyebright, 1x Belladonna, 1x Chamomile
 
-Where recipe: Nomads' Camp (Aranka), Juttenberg (Apothecary)
+Where recipe: Nomads' Camp (Aranka), Juttenberg (Apothecary)  
 Where herbs:
 
 #### Nighthawk effects
@@ -914,24 +939,25 @@ Where herbs:
 
 Prep: Water, 2x Eyebright, 1x Belladonna, 1x Chamomile
 
-Water to the cauldron.
-Grind the Eyebright and add it to the cauldron.
-Add the Belladonna and boil for 3 turns.
-Grind the Chamomile and add it to the cauldron.
+Water to the cauldron.  
+Grind the Eyebright and add it to the cauldron.  
+Add the Belladonna and boil for 3 turns.  
+Grind the Chamomile and add it to the cauldron.  
 Finally, pour.
 
 ### Painkiller Brew
 
-Type: Rage
-Base: Spiritus
+[top](#table-of-contents)
+
+Type: Rage  
+Base: Spiritus  
 Ingredients: 3x Poppy, 1x Comfrey, 1x Marigold
 
-stat_chg: Nourishment, Energy, Health
-stat_pct: % Nutrition, % Alcohol
+stat_chg: Nourishment, Energy, Health  
+stat_pct: % Nutrition, % Alcohol  
 stat_wgt:
-stat_cost:
 
-Where recipe: Nomads' Camp (Aranka), Trosky Castle (Herbalist Barnaby), Kuttenberg (Apothecary), Pschitoky (Apothecary)
+Where recipe: Nomads' Camp (Aranka), Trosky Castle (Herbalist Barnaby), Kuttenberg (Apothecary), Pschitoky (Apothecary)  
 Where herbs:
 
 #### Painkiller effects
@@ -956,24 +982,25 @@ Where herbs:
 
 Prep: Spirits, 3x Poppy, 1x Comfrey, 1x Marigold
 
-Spirits to the cauldron.
-Grind the Poppy and add it to the cauldron.
-Add the Marigold and boil for 1 turn using the Bellows.
-Add the Comfrey and boil for 2 turns.
+Spirits to the cauldron.  
+Grind the Poppy and add it to the cauldron.  
+Add the Marigold and boil for 1 turn using the Bellows.  
+Add the Comfrey and boil for 2 turns.  
 Finally, distil.
 
 ### Quickfinger
 
-For: Thievery / Crafting
-Base: Water
+[top](#table-of-contents)
+
+For: Thievery / Crafting  
+Base: Water  
 Ingredients: 2x Eyebright, 2x Valerian, 1x Cobweb
 
-stat_chg: Nourishment, Energy, Health
-stat_pct: % Nutrition, % Alcohol
+stat_chg: Nourishment, Energy, Health  
+stat_pct: % Nutrition, % Alcohol  
 stat_wgt:
-stat_cost:
 
-Where recipe: Nomads' Camp (Aranka), Balthazar (Random Encounter)
+Where recipe: Nomads' Camp (Aranka), Balthazar (Random Encounter)  
 Where herbs:
 
 #### Quickfinger effects
@@ -998,24 +1025,25 @@ Where herbs:
 
 Prep: Water, 2x Eyebright, 2x Valerian, 1x Cobweb
 
-Water to the cauldron.
-Add the Cobweb and Eyebright to the cauldron and boil for 3 turns.
-Grind the Valerian and add it to the cauldron.
-Boil for 1 turn.
+Water to the cauldron.  
+Add the Cobweb and Eyebright to the cauldron and boil for 3 turns.  
+Grind the Valerian and add it to the cauldron.  
+Boil for 1 turn.  
 Finally, pour.
 
 ### Saviour Schnapps
 
-For: Save (buff)
-Base: Wine
+[top](#table-of-contents)
+
+For: Save (buff)  
+Base: Wine  
 Ingredients: 1x Nettle, 2x Belladonna
 
-stat_chg: Nourishment, Energy, Health
-stat_pct: % Nutrition, % Alcohol
+stat_chg: Nourishment, Energy, Health  
+stat_pct: % Nutrition, % Alcohol  
 stat_wgt:
-stat_cost:
 
-Where recipe: "Fortuna" (Quest - Tutorial)
+Where recipe: "Fortuna" (Quest - Tutorial)  
 Where herbs:
 
 #### Saviour Schnapps effects
@@ -1052,15 +1080,17 @@ Prep: Wine, 1x Nettle, 2x Belladonna
 
 ### Soap
 
-For: Soap
-Base: Oil
+[top](#table-of-contents)
+
+For: Soap  
+Base: Oil  
 Ingredients: 2x Thistle, 1x Dandelion, 1x Charcoal
 
-stat_chg: n/a
-stat_pct: n/a
+stat_chg: n/a  
+stat_pct: n/a  
 stat_wgt:
 
-Where recipe: Troskowitz (Apothecary), Kuttenberg (Apothecary), Trosky (bathouse - upper floor), Troskowitz (trader building)
+Where recipe: Troskowitz (Apothecary), Kuttenberg (Apothecary), Trosky (bathouse - upper floor), Troskowitz (trader building)  
 Where herbs:
 
 #### Soap effects
@@ -1071,24 +1101,26 @@ Where herbs:
 
 Prep: Oil, 2x Thistle, 1x Dandelion, 1x Charcoal
 
-Oil to the cauldron.
-Grind the Thistle and add it to the cauldron.
-Boil for 2 turns.
-Add the Dandelion to the cauldron and boil for 1 turn.
-Grind the Charcoal and add it to the cauldron.
+Oil to the cauldron.  
+Grind the Thistle and add it to the cauldron.  
+Boil for 2 turns.  
+Add the Dandelion to the cauldron and boil for 1 turn.  
+Grind the Charcoal and add it to the cauldron.  
 Finally, pour.
 
 ### Lead Shot Gunpowder
 
-For: Ammo
-Base: Water
+[top](#table-of-contents)
+
+For: Ammo  
+Base: Water  
 Ingredients: 1x Sulphur, 1x Saltpetre, 1x Charcoal
 
-stat_chg: n/a
-stat_pct: n/a
+stat_chg: n/a  
+stat_pct: n/a  
 stat_wgt:
 
-Where recipe: Kuttenberg (Apothecary), "Opus Magnum" (Quest)
+Where recipe: Kuttenberg (Apothecary), "Opus Magnum" (Quest)  
 Where herbs:
 
 #### Lead Shot effects
@@ -1099,24 +1131,24 @@ Where herbs:
 
 Prep: Water, 1x Sulphur, 1x Saltpetre, 1x Charcoal
 
-Water to the cauldron.
-Grind the Sulphur and Saltpetre and add it to the cauldron.
-Boil for 2 turns.
-Grind the Charcoal and add to the cauldron.
-Boil for 2 turns.
+Water to the cauldron.  
+Grind the Sulphur and Saltpetre and add it to the cauldron.  
+Boil for 2 turns.  
+Grind the Charcoal and add to the cauldron.  
+Boil for 2 turns.  
 Pour into a mortar and grind.
 
 ### Scattershot Powder
 
-For: Ammo
-Base: Water
+For: Ammo  
+Base: Water  
 Ingredients: 1x Sulphur, 1x Saltpetre, 1x Leached Coal
 
-stat_chg: n/a
-stat_pct: n/a
+stat_chg: n/a  
+stat_pct: n/a  
 stat_wgt:
 
-Where recipe: Kuttenberg (Apothecary)
+Where recipe: Kuttenberg (Apothecary)  
 Where herbs:
 
 #### Scattershot effects
@@ -1127,16 +1159,18 @@ Where herbs:
 
 Prep: 1x Sulphur, 1x Saltpetre, 1x Leached Coal
 
-Water to the cauldron.
-Grind the Sulphur and Saltpetre and add them to the cauldron.
-Boil for 3 turns.
-Grind the Leached Coal and add it to the cauldron.
-Boil for 1 turn.
+Water to the cauldron.  
+Grind the Sulphur and Saltpetre and add them to the cauldron.  
+Boil for 3 turns.  
+Grind the Leached Coal and add it to the cauldron.  
+Boil for 1 turn.  
 Pour into a mortar and grind.
 
 ## Price
 
 ### Alphabetised
+
+[top](#table-of-contents)
 
 | Potion | Weak | Normal | Strong | Henry's |
 | :----- | ---: | -----: | -----: | ------: |
@@ -1169,6 +1203,8 @@ Pour into a mortar and grind.
 | Scattershot Powder | - | - | - | - |
 
 ### Highest -> Lowest
+
+[top](#table-of-contents)
 
 | Potion | Weak | Normal | Strong | Henry's |
 | :----- | ---: | -----: | -----: | ------: |
