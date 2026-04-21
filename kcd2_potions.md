@@ -148,9 +148,9 @@ For: Strength
 Base: Spiritus  
 Ingredients: 2x Wormwood, 1x Sage
 
-stat_chg: Nourishment, Energy, Health  
-stat_pct: % Nutrition, % Alcohol  
-stat_wgt:  
+stat_chg: +3 Nourishment, +15 Energy, 0 Health  
+stat_pct: 90% Nutrition, 2% Alcohol  
+stat_wgt:  0.2
 
 Where recipe: Kuttenberg (Apothecary), Trosky Castle (Herbalist Barnaby), Pschitoky (Apothecary)  
 Where herbs:
@@ -243,9 +243,9 @@ For: Marksmanship
 Base: Spiritus  
 Ingredients: 2x Eyebright, 1x St. John's Wort
 
-stat_chg: Nourishment, Energy, Health  
-stat_pct: % Nutrition, % Alcohol  
-stat_wgt:
+stat_chg: +5 Nourishment, +3 Energy, 0 Health  
+stat_pct: 90% Nutrition, 0% Alcohol  
+stat_wgt: 0.2
 
 Where recipe: Purchase from Aranka (Nomads' Camp) or Herbalist Barnaby (north of Trosky Castle)  
 Where herbs:
@@ -336,7 +336,7 @@ Prep: Oil, 1x St. John's wort, 1x Dandelion, 1x Comfrey
 
 ___
 
-### Chamomile Brew
+### Chamomile decoction
 
 [top](#table-of-contents)
 
@@ -345,7 +345,7 @@ Base: Wine
 Ingredients: Chamomile x2, Sage x1
 
 Stat_chg: +5 Nourishment, +10 Energy, +0 Health  
-Stat_pct: Nutrition 90%, Alcohol 0%  
+Stat_pct: 90% Nutrition, 0% Alcohol  
 Stat_weight: 0.5
 
 Where recipe: Nomads' Camp (Aranka), Troskowitz (Apothecary), Kuttenberg (Apothecary), Pschitoky (Apothecary)  
@@ -391,9 +391,9 @@ For: Energy
 Base: Spiritus  
 Ingredients: 1x Valerian, 2x Mint
 
-stat_chg: Nourishment, Energy, Health  
-stat_pct: % Nutrition, % Alcohol  
-stat_wgt:
+stat_chg: +7 Nourishment, +10 Energy, 0 Health  
+stat_pct: 90% Nutrition, 0% Alcohol  
+stat_wgt: 0.2
 
 Where recipe: Kuttenberg (Apothecary), Pschitoky (Apothecary)  
 Where herbs:
@@ -469,6 +469,20 @@ Where herbs:
 #### Digestive OoOps
 
 Prep: Water, 1x Nettle, 2x Thistle, 1x Charcoal
+
+1) Water
+2) 1x Nettle -> mortar
+3) 2x Thistle -> cauldron
+4) Lower cauldron
+5) Timer (2 turns)
+6) Grind Nettle
+7) Nettle -> dish
+8) Charcoal -> mortar
+9) Nettle -> cauldron
+10) Grind charcoal
+11) Charcoal -> cauldron
+12) Lift cauldron
+13) Pour
 
 Prepare 1x Nettle, 2x Thistle, and 1x Charcoal.
 Add Water to the cauldron.
@@ -695,6 +709,18 @@ Where herbs:
 
 Prep: Water, 1x Sage, 1x St. John's Wort, 1x Mint
 
+1) Water
+2) 1x Sage -> cauldron
+3) 1x St John's -> cauldron
+4) Lower cauldron
+5) 1x Mint -> mortar
+6) Grind mint
+7) Mint -> dish
+8) Timer (wait 1 turn)
+9) Lift cauldron
+10) Mint -> cauldron
+11) Pour
+
 Add Water to the cauldron.  
 Add the Sage and St. John's Wort to the cauldron.  
 Boil for 3 turns.  
@@ -769,6 +795,16 @@ Where herbs:
 
 Prep: Spirits, 2x Sage, 2x Mint
 
+1) Spirits
+2) 2x Sage -> cauldron
+3) Lower cauldron
+4) 2x Mint -> mortar
+5) Grind mint
+6) Mint -> dish
+7) Lift cauldron
+8) Mint -> cauldron
+9) Vial, pour. e
+
 Spirits to the cauldron.  
 Add the Sage to the cauldron and boil for 2 turns.  
 Grind the Mint and add it to the cauldron.  
@@ -833,9 +869,9 @@ For: Healing potion
 Base: Water  
 Ingredients: 1x Nettle, 2x Marigold
 
-stat_chg: Nourishment, Energy, Health  
-stat_pct: % Nutrition, % Alcohol  
-stat_wgt:
+stat_chg: +3 Nourishment, +4 Energy, +60 Health  
+stat_pct: 90% Nutrition, 0% Alcohol  
+stat_wgt: 0.2
 
 Where recipe: Troskowitz (Apothecary), Trosky Castle (Herbalist Barnaby), Kuttenberg (Apothecary), Pschitoky (Apothecary)  
 Where herbs:
@@ -955,6 +991,10 @@ For: Darkvision
 Base: Water  
 Ingredients: 2x Eyebright, 1x Belladonna, 1x Chamomile
 
+stat_chg: +7 Nourishment, +10 Energy, 0 Health  
+stat_pct: 90% Nutrition, 0% Alcohol  
+stat_wgt: 0.2
+
 Where recipe: Nomads' Camp (Aranka), Juttenberg (Apothecary)  
 Where herbs:
 
@@ -1040,9 +1080,9 @@ For: Thievery / Crafting
 Base: Water  
 Ingredients: 2x Eyebright, 2x Valerian, 1x Cobweb
 
-stat_chg: Nourishment, Energy, Health  
-stat_pct: % Nutrition, % Alcohol  
-stat_wgt:
+stat_chg: +5 Nourishment, +4 Energy, 0 Health  
+stat_pct: 50% Nutrition, 0% Alcohol  
+stat_wgt: 0.2
 
 Where recipe: Nomads' Camp (Aranka), Balthazar (Random Encounter)  
 Where herbs:
@@ -1085,9 +1125,9 @@ For: Save (buff)
 Base: Wine  
 Ingredients: 1x Nettle, 2x Belladonna
 
-stat_chg: Nourishment, Energy, Health  
-stat_pct: % Nutrition, % Alcohol  
-stat_wgt:
+stat_chg: 0 Nourishment, 0 Energy, +10 Health  
+stat_pct: 90% Nutrition, 5% Alcohol  
+stat_wgt: 0.2
 
 Where recipe: "Fortuna" (Quest - Tutorial)  
 Where herbs:

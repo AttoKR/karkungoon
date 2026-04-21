@@ -48,79 +48,87 @@
 
 | Num | Die | Skew | 1 | 2 | 3 | 4 | 5 | 6 | Description |
 | :--: | :-- | :-- | :---: | :---: | :---: | :---: | :---: | :---: | :------------- |
+| 1 |Die of Misfortune | 2-5: 91% | 4.5% | 22.7% | 22.7% | 22.7% | 22.7% | 4.5% | Loaded die with higher chance for 2-5. |
 | 1 | Cautious Cheater's Die | 1/5: 48% | 23.8% | 14.3% | 9.5% | 14.3% | 23.8% | 14.3% | Precisely loaded die with better chance of rolling 1 or 5. |
+| 1 | Even Die | 2/4/6: 80% | 6.7% | 26.7% | 6.7% | 26.7% | 6.7% | 26.7% | Loaded in favour of even numbers. |
+| 2 | Holy Trinity Die | 3: 37% | 21.1% | 26.3% | 36.8% | 5.3% | 5.3% | 5.3% | Consecrated die weighted towards rolling 3. |
 | 1 | Lu Die | 6: 28.6% | 14.3% | 14.3% | 14.3% | 14.3% | 14.3% | 28.6% | First of the demonic dice in favour of rolling 6. |
-| 4 | Odd Die | 1/3/5: 80% | 26.7% | 6.7% | 26.7% | 6.7% | 26.7% | 6.7% | Loaded to favour odd numbers. |
-| 2 | Painted Die | 5: 40% | 20% | 6.7% | 6.7% | 6.7% | 40% | 20% | Coloured using modern techniques. High chance for 5, favour for 1 and 6. |
-| 2 | Shrinking Die | 1/6: 56% | 22.2% | 11.1% | 11.1% | 11.1% | 11.1% | 33.3% | Lightly loaded die with more chances for 1 or 6. |
+| 5 | Odd Die | 1/3/5: 80% | 26.7% | 6.7% | 26.7% | 6.7% | 26.7% | 6.7% | Loaded to favour odd numbers. |
+| 4 | Painted Die | 5: 40% | 20% | 6.7% | 6.7% | 6.7% | 40% | 20% | Coloured using modern techniques. High chance for 5, favour for 1 and 6. |
+| 3 | Shrinking Die | 1/6: 56% | 22.2% | 11.1% | 11.1% | 11.1% | 11.1% | 33.3% | Lightly loaded die with more chances for 1 or 6. |
 | 1 | Strip Die | 1: 25% | 25% | 12.5% | 12.5% | 12.5% | 18.8% | 18.8% | Legend says it helps you undress many a wench. Favours rolling 1. |
+| 1 | Unbalanced Die | 2: 33% | 25% | 33.3% | 8.3% | 8.3% | 16.7% | 8.3% | Someone tried to load it but didn't do a good job. Weighted towards 1 and 2. |
 | 2 | Wagoner's Die | 3: 33% | 5.6% | 27.8% | 33.3% | 11.1% | 11.1% | 11.1% | Belonged to Roman charioteer Arnuldus. Better chance for 2 and 3. |
 | 1 | Weighted Die | 1: 67% | 66.7% | 6.7% | 6.7% | 6.7% | 6.7% | 6.7% | Found in ruined house. Heavily rolls 1. |
+| 1 | Devil's Head Die | Flat | 16.7% | 16.7% | 16.7% | 16.7% | 16.7% | 16.7% | Die with devil's head in place of one. |
+| 1 | Lousy Gambler's Die | 5: 35% | 10% | 15% | 10% | 15% | 35% | 15% | Shoddy loaded die heavily weighted on 4, less likely on 1 or 3. |
 
 ### A: Banking
 
-**Dice:** 4× Odd Die + 2× Painted Die
+**Dice:**  
+| Num | Die | Skew | 1 | 2 | 3 | 4 | 5 | 6 | Description |
+| :--: | :-- | :-- | :---: | :---: | :---: | :---: | :---: | :---: | :------------- |
+| 5 | Odd Die | 1/3/5: 80% | 26.7% | 6.7% | 26.7% | 6.7% | 26.7% | 6.7% | Loaded to favour odd numbers. |
+| 1 | Painted Die | 5: 40% | 20% | 6.7% | 6.7% | 6.7% | 40% | 20% | Coloured using modern techniques. High chance for 5, favour for 1 and 6. |
 
+**Strategy:**
 | Face | Probability |
 | :---: | ---------: |
-| 1 | 24.0% |
+| 1 | 26.7% |
 | 2 | 6.7% |
-| 3 | 24.0% |
+| 3 | 26.7% |
 | 4 | 6.7% |
-| 5 | 28.0% |
-| 6 | 11.6% |
+| 5 | 26.7% |
+| 6 | 9.1% |
+
+- bank 1s 
+- backup 5s
+- bust: ~0.01%
+- smile and wave boys
+
+### B: Six-Heavy
+
+**Dice:** 1 x Lu Die, 3x Shrinking Die, 2x Painted Die
 
 | Num | Die | Skew | 1 | 2 | 3 | 4 | 5 | 6 | Description |
 | :--: | :-- | :-- | :---: | :---: | :---: | :---: | :---: | :---: | :------------- |
-| 4 | Odd Die | 1/3/5: 80% | 26.7% | 6.7% | 26.7% | 6.7% | 26.7% | 6.7% | Loaded to favour odd numbers. |
+| 3 | Shrinking Die | 1/6: 56% | 22.2% | 11.1% | 11.1% | 11.1% | 11.1% | 33.3% | Lightly loaded die with more chances for 1 or 6. |
 | 2 | Painted Die | 5: 40% | 20% | 6.7% | 6.7% | 6.7% | 40% | 20% | Coloured using modern techniques. High chance for 5, favour for 1 and 6. |
+| 1 | Lu Die | 6: 28.6% | 14.3% | 14.3% | 14.3% | 14.3% | 14.3% | 28.6% | First of the demonic dice in favour of rolling 6. |
 
 **Strat:**
-
-- hold 1s/3s/5s
-- bust: ~12%
-
-### B: Straights
-
-**Dice:** 2× Wagoner Die + 2× Shrinking Die + 2× d6
 
 | Face | Probability |
 | :---: | ---------: |
-| 1 | 19.5% |
-| 2 | 20.8% |
-| 3 | 22.2% |
-| 4 | 11.1% |
-| 5 | 11.1% |
-| 6 | 15.3% |
+| 1 | 19.4% |
+| 2 | 8.2% |
+| 3 | 8.2% |
+| 4 | 8.2% |
+| 5 | 15.2% |
+| 6 | 27.8% |
 
-| Num | Die | Skew | 1 | 2 | 3 | 4 | 5 | 6 | Description |
-| :--: | :-- | :-- | :---: | :---: | :---: | :---: | :---: | :---: | :------------- |
-| 2 | Shrinking Die | 1/6: 56% | 22.2% | 11.1% | 11.1% | 11.1% | 11.1% | 33.3% | Lightly loaded die with more chances for 1 or 6. |
-| 2 | Wagoner's Die | 3: 33% | 5.6% | 27.8% | 33.3% | 11.1% | 11.1% | 11.1% | Belonged to Roman charioteer Arnuldus. Better chance for 2 and 3. |
-
-**Strat:**
-
-- go for 1-5 or 2-6 straights
-- bust: ~28%
+- want 6s multiple
+- else score the 1s/5s
+- bust: ~10%
 
 ### C: Hybrid
 
-**Dice:** 1× Lu Die + 3× Odd Die + 2× Painted Die
+**Dice:** 1× Lu Die + 2× Odd Die + 3× Painted Die
 
 | Face | Probability |
 | :---: | ---------: |
-| 1 | 20.3% |
+| 1 | 21.0% |
 | 2 | 6.7% |
-| 3 | 20.3% |
+| 3 | 21.0% |
 | 4 | 6.7% |
-| 5 | 23.7% |
-| 6 | 22.3% |
+| 5 | 28.3% |
+| 6 | 16.3% |
 
 | Num | Die | Skew | 1 | 2 | 3 | 4 | 5 | 6 | Description |
 | :--: | :-- | :-- | :---: | :---: | :---: | :---: | :---: | :---: | :------------- |
 | 1 | Lu Die | 6: 28.6% | 14.3% | 14.3% | 14.3% | 14.3% | 14.3% | 28.6% | First of the demonic dice in favour of rolling 6. |
-| 4 | Odd Die | 1/3/5: 80% | 26.7% | 6.7% | 26.7% | 6.7% | 26.7% | 6.7% | Loaded to favour odd numbers. |
-| 2 | Painted Die | 5: 40% | 20% | 6.7% | 6.7% | 6.7% | 40% | 20% | Coloured using modern techniques. High chance for 5, favour for 1 and 6. |
+| 2 | Odd Die | 1/3/5: 80% | 26.7% | 6.7% | 26.7% | 6.7% | 26.7% | 6.7% | Loaded to favour odd numbers. |
+| 3 | Painted Die | 5: 40% | 20% | 6.7% | 6.7% | 6.7% | 40% | 20% | Coloured using modern techniques. High chance for 5, favour for 1 and 6. |
 
 **Strat:**
 
