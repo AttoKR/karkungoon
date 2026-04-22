@@ -13,7 +13,7 @@
         - [example-turns](#example-turns)
             - [example-1: score-and-pass](#example-1-score-and-pass)
             - [example-2: bust](#example-2-bust)
-            - [example-2: clear-and-reroll](#example-2-clear-and-reroll)
+            - [example-3: clear-and-reroll](#example-3-clear-and-reroll)
     - [my-dice](#my-dice)
         - [optimal-1](#optimal-1)
         - [optimal-2](#optimal-2)
@@ -68,6 +68,8 @@
 
 ### flow-chart-rules
 
+[top](#toc)
+
 ```mermaid
 flowchart TD
     A([Start of turn]) --> B[Roll all 6 dice]
@@ -97,6 +99,8 @@ flowchart TD
 
 ### farkle-scoring
 
+[top](#toc)
+
 | Combination | Points |
 | :--- | :--- |
 | Single 1 | 100 |
@@ -114,6 +118,8 @@ flowchart TD
 | Full Straight (1–6) | 1,500 |
 
 ### textual-rules
+
+[top](#toc)
 
 A game of farkle has two players, and starts with the players:  
 i. each picking 6 dice (their 'hand'[^1]) to play with, and;  
@@ -138,6 +144,8 @@ The primary skill/mechanic of the game is deciding whether to bank their points 
 
 #### example-1: score-and-pass
 
+[top](#toc)
+
 | Roll | Dice | Dice Banked | Cumulative Banked |
 | :----: | :----- | :----- | :----------: |
 | 1 | `1 · 3 · 3 · 4 · 5 · 6` | **1** → 100 pts | 100 |
@@ -148,6 +156,8 @@ Player banks single 1 for 100 pts and single 5 for 50 pts, and chooses not to at
 
 #### example-2: bust
 
+[top](#toc)
+
 | Roll | Dice | Dice Banked | Cumulative Banked |
 | :----: | :----- | :----- | :----------: |
 | 1 | `3 · 3 · 3 · 2 · 5 · 6` | **3, 3, 3** → 300 pts | 300 |
@@ -156,7 +166,9 @@ Player banks single 1 for 100 pts and single 5 for 50 pts, and chooses not to at
 
 Roll 3 yields no scoring faces. Player bust, turn ends and 0 points scored.
 
-#### example-2: clear-and-reroll
+#### example-3: clear-and-reroll
+
+[top](#toc)
 
 | Roll | Dice | Dice Banked | Cumulative Banked |
 | :----: | :----- | :----- | :----------: |
@@ -169,6 +181,8 @@ In roll 2 the player banks all available dice. This **clears** the dice triggeri
 ___
 
 ## my-dice
+
+[top](#toc)
 
 | Qty | Die |
 | :---: | :---- |
@@ -190,6 +204,8 @@ ___
 
 ### optimal-1
 
+[top](#toc)
+
 **Dice:** Odd Die ×5 + Cautious Cheater's Die ×1
 
 - Scoring face chance (1 or 5): **53.39%**
@@ -208,6 +224,8 @@ ___
 | 6 | 7.94% |
 
 ### optimal-2
+
+[top](#toc)
 
 **Dice:** Odd Die ×5 + Weighted Die ×1
 
@@ -228,6 +246,8 @@ ___
 | 6 | % |
 
 ### 6-spam
+
+[top](#toc)
 
 **Dice:** Lu Die ×1 + Shrinking Die ×4 + Lucky Die ×1
 
@@ -253,6 +273,8 @@ ___
 
 #### Aranka's Die
 
+[top](#toc)
+
 **Tier:** A
 
 - Scoring face chance (1 or 5): **57.14%**
@@ -275,6 +297,8 @@ ___
 ___
 
 #### Cautious Cheater's Die
+
+[top](#toc)
 
 **Tier:** C
 
@@ -299,6 +323,8 @@ ___
 
 #### Ci Die
 
+[top](#toc)
+
 **Tier:** D  
 *Part of the Lu-Ci-Fer demonic set.*
 
@@ -319,6 +345,8 @@ ___
 ___
 
 #### Devil's Head Die
+
+[top](#toc)
 
 **Wildcard**  
 **Tier:** C*
@@ -341,6 +369,8 @@ ___
 
 #### Die of Misfortune
 
+[top](#toc)
+
 **Tier:** F
 
 - Scoring face chance (1 or 5): **9.10%**
@@ -362,6 +392,8 @@ ___
 ___
 
 #### Even Die
+
+[top](#toc)
 
 **Tier:** F
 
@@ -387,6 +419,8 @@ ___
 
 #### Favourable Die
 
+[top](#toc)
+
 **Tier:** S
 
 - Scoring face chance (1 or 5): **66.67%**
@@ -410,6 +444,8 @@ ___
 
 #### Fer Die
 
+[top](#toc)
+
 **Tier:** D  
 *Part of the Lu-Ci-Fer demonic set.*
 
@@ -429,6 +465,8 @@ ___
 ___
 
 #### Greasy Die
+
+[top](#toc)
 
 **Tier:** C
 
@@ -453,6 +491,8 @@ ___
 
 #### Grimy Die
 
+[top](#toc)
+
 **Tier:** B
 
 - Scoring face chance (1 or 5): **50.00%** (almost entirely `face = 5`)
@@ -476,6 +516,8 @@ ___
 
 #### Grozav's Lucky Die
 
+[top](#toc)
+
 **Tier:** F
 
 - Scoring face chance (1 or 5): **13.33%**
@@ -498,6 +540,8 @@ ___
 ___
 
 #### Heavenly Kingdom Die
+
+[top](#toc)
 
 **Tier:** B
 
@@ -524,6 +568,8 @@ ___
 
 #### Holy Trinity Die
 
+[top](#toc)
+
 **Tier:** D
 
 - Scoring face chance (1 or 5): **22.73%** — decent `face = 1` but very low `face = 5`
@@ -549,6 +595,8 @@ ___
 
 #### Hugo's Die
 
+[top](#toc)
+
 **Tier:** D
 
 - Scoring face chance (1 or 5): **33.33%**
@@ -566,6 +614,8 @@ ___
 ___
 
 #### King's Die
+
+[top](#toc)
 
 **Tier:** D
 
@@ -589,6 +639,8 @@ ___
 ___
 
 #### Lousy Gambler's Die
+
+[top](#toc)
 
 **Tier:** C
 
@@ -614,6 +666,8 @@ ___
 
 #### Lu Die
 
+[top](#toc)
+
 **Tier:** B  
 *Part of the Lu-Ci-Fer demonic set.*
 
@@ -633,6 +687,8 @@ ___
 ___
 
 #### Lucky Die
+
+[top](#toc)
 
 **Tier:** B
 
@@ -657,6 +713,8 @@ ___
 
 #### Mathematician's Die
 
+[top](#toc)
+
 **Tier:** F
 
 - Scoring face chance (1 or 5): **20.83%**
@@ -680,6 +738,8 @@ ___
 
 #### Molar Die
 
+[top](#toc)
+
 **Tier:** D
 
 - Scoring face chance (1 or 5): **33.33%**
@@ -697,6 +757,8 @@ ___
 ___
 
 #### Monk's Die *(DLC)*
+
+[top](#toc)
 
 **Tier:** B
 
@@ -722,6 +784,8 @@ ___
 
 #### Mother-of-Pearl Die *(DLC)*
 
+[top](#toc)
+
 **Tier:** A
 
 - Scoring face chance (1 or 5): **50.00%**
@@ -744,6 +808,8 @@ ___
 ___
 
 #### Odd Die
+
+[top](#toc)
 
 **Tier:** A
 
@@ -769,6 +835,8 @@ ___
 
 #### Ordinary Die
 
+[top](#toc)
+
 **Tier:** D
 
 - Scoring face chance (1 or 5): **33.33%**
@@ -786,6 +854,8 @@ ___
 ___
 
 #### Painted Die
+
+[top](#toc)
 
 **Tier:** A
 
@@ -812,6 +882,8 @@ ___
 
 #### Pie Die
 
+[top](#toc)
+
 **Tier:** B
 
 - Scoring face chance (1 only): **46.15%** — note: `face = 5` and `face = 6` are **0%**
@@ -835,6 +907,8 @@ ___
 
 #### Premolar Die
 
+[top](#toc)
+
 **Tier:** D
 
 - Scoring face chance (1 or 5): **33.33%**
@@ -852,6 +926,8 @@ ___
 ___
 
 #### Sad Greaser's Die
+
+[top](#toc)
 
 **Tier:** A
 
@@ -875,6 +951,8 @@ ___
 ___
 
 #### Saint Antiochus' Die
+
+[top](#toc)
 
 **Tier:** S *(patched — see note)*
 
@@ -904,6 +982,8 @@ ___
 
 #### Shrinking Die
 
+[top](#toc)
+
 **Tier:** D
 
 - Scoring face chance (1 or 5): **33.33%**
@@ -924,6 +1004,8 @@ ___
 
 #### St. Stephen's Die
 
+[top](#toc)
+
 **Tier:** D
 
 - Scoring face chance (1 or 5): **33.33%**
@@ -941,6 +1023,8 @@ ___
 ___
 
 #### Strip Die
+
+[top](#toc)
 
 **Tier:** C
 
@@ -967,6 +1051,8 @@ ___
 
 #### Tengri's Die *(DLC)*
 
+[top](#toc)
+
 **Tier:** B
 
 - Scoring face chance (1 or 5): **42.86%**
@@ -989,6 +1075,8 @@ ___
 ___
 
 #### Trinity Die
+
+[top](#toc)
 
 **Tier:** D
 
@@ -1015,6 +1103,8 @@ ___
 
 #### Unbalanced Die
 
+[top](#toc)
+
 **Tier:** D
 
 - Scoring face change (1 or 5): **41.67%**
@@ -1037,6 +1127,8 @@ ___
 ___
 
 #### Unlucky Die
+
+[top](#toc)
 
 **Tier:** F
 
@@ -1061,6 +1153,8 @@ ___
 
 #### Wagoner's Die
 
+[top](#toc)
+
 **Tier:** F
 
 - Scoring face chance (1 or 5): **16.67%**
@@ -1081,6 +1175,8 @@ ___
 ___
 
 #### Weighted Die
+
+[top](#toc)
 
 **Tier:** A
 
@@ -1105,6 +1201,8 @@ ___
 
 #### Wisdom Tooth Die
 
+[top](#toc)
+
 **Tier:** D
 
 - Scoring face chance (1 or 5): **33.33%**
@@ -1122,6 +1220,8 @@ ___
 ___
 
 ### table: detailed-stats
+
+[top](#toc)
 
 | Die | 1 | 2 | 3 | 4 | 5 | 6 | personal-tier |
 | :-- | :---: | :---: | :---: | :---: | :---: | :---: | -------------: |
